@@ -7,6 +7,6 @@ The app basically allows you to send messages and view messages, credits to Jack
 For use just simply git clone the project and open up your terminal, navigate to chat app and type yarn start, don't forget
 to start up the server too. Simply navigate to the server folder in your terminal and type yarn start then click enter.
 
-#Note:
+# Note:
 
 The home-page folder is meant to demonstrate how you can quickly intergrate the chat app in another website.
