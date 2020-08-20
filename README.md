@@ -1,7 +1,7 @@
 # React-Messenger
 
 It's a simple app that is built using React, GraphQL and websockets. A plugin by the name of ModuleFederation has also been
-integrated to allow other apps to use this app effortlessly.
+integrated to allow other apps to use the chat-app effortlessly.
 The app basically allows you to send messages and view messages, credits to Jack Herrington for the tutorial.
 
 For use just simply git clone the project and open up your terminal, navigate to chat app and type yarn start, don't forget
